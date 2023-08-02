@@ -1,7 +1,7 @@
 # Module-01
 #Assignment-01
 
-#Output:
+#Output:\n
 Addition: 25+ 18 = 43
 Subtraction: 25 - 18 = 7
 Multiplication: 25 * 18 = 450
