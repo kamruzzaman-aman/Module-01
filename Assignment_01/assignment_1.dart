@@ -1,6 +1,6 @@
 void main() {
-  const a = 25;
-  const b = 18;
+  const int a = 25;
+  const int b = 18;
   // Addition
   int sum = a + b;
   print('Addition: $a+ $b = $sum');
